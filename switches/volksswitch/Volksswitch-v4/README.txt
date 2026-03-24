@@ -1,0 +1,4 @@
+Volksswitch - the People's AT Switch (Version 4) by Volksswitch on Thingiverse: https://www.thingiverse.com/thing:3819575
+
+Summary:
+This version focuses on eliminating the need for breadboards. Breadboards are bulky and expensive.  In many cases they are overkill and provide many more options for connections than are necessary and, as such, provide many more opportunities for error.  This version embeds as much of the circuit design as possible in the 3D model itself.  It also introduces an alternative to soldering - injectable conductive paste.  Finally, it eliminates the need for cutting wires to length and stripping away insulation; and uses a snap-on technique for assembly.For information about how these parts all come together, visit http://volksswitch.org/index.php/volks-devices/volksswitch-proof-of-concept/version-4-eliminating-the-need-for-breadboards/
