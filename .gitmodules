@@ -1,0 +1,144 @@
+[submodule "switches/mmc/Chatterbox"]
+	path = switches/mmc/Chatterbox
+	url = https://github.com/makersmakingchange/Chatterbox.git
+[submodule "switches/mmc/Lift-Switch"]
+	path = switches/mmc/Lift-Switch
+	url = https://github.com/makersmakingchange/Lift-Switch.git
+[submodule "switches/mmc/MMC60_Assistive_Switch"]
+	path = switches/mmc/MMC60_Assistive_Switch
+	url = https://github.com/makersmakingchange/MMC60_Assistive_Switch.git
+[submodule "switches/mmc/Twitch-Switch"]
+	path = switches/mmc/Twitch-Switch
+	url = https://github.com/makersmakingchange/Twitch-Switch.git
+[submodule "switches/mmc/Light-Proximity-Switch"]
+	path = switches/mmc/Light-Proximity-Switch
+	url = https://github.com/makersmakingchange/Light-Proximity-Switch.git
+[submodule "switches/mmc/Open-Wobble-Switch"]
+	path = switches/mmc/Open-Wobble-Switch
+	url = https://github.com/makersmakingchange/Open-Wobble-Switch.git
+[submodule "switches/mmc/Interact-Switch"]
+	path = switches/mmc/Interact-Switch
+	url = https://github.com/makersmakingchange/Interact-Switch.git
+[submodule "switches/mmc/Big_Open_Switch"]
+	path = switches/mmc/Big_Open_Switch
+	url = https://github.com/makersmakingchange/Big_Open_Switch.git
+[submodule "switches/mmc/foot-pedal-switch"]
+	path = switches/mmc/foot-pedal-switch
+	url = https://github.com/makersmakingchange/foot-pedal-switch.git
+[submodule "switches/mmc/Open-Rocker-Switch"]
+	path = switches/mmc/Open-Rocker-Switch
+	url = https://github.com/makersmakingchange/Open-Rocker-Switch.git
+[submodule "switches/mmc/Round_Touch_60_Switch"]
+	path = switches/mmc/Round_Touch_60_Switch
+	url = https://github.com/makersmakingchange/Round_Touch_60_Switch.git
+[submodule "switches/mmc/Raindrop-Switch"]
+	path = switches/mmc/Raindrop-Switch
+	url = https://github.com/makersmakingchange/Raindrop-Switch.git
+[submodule "switches/mmc/Resistive-Touch-Switch"]
+	path = switches/mmc/Resistive-Touch-Switch
+	url = https://github.com/makersmakingchange/Resistive-Touch-Switch.git
+[submodule "switches/mmc/Light-Touch-Switch"]
+	path = switches/mmc/Light-Touch-Switch
+	url = https://github.com/makersmakingchange/Light-Touch-Switch.git
+[submodule "switches/mmc/Wearable-Clap-Switch"]
+	path = switches/mmc/Wearable-Clap-Switch
+	url = https://github.com/makersmakingchange/Wearable-Clap-Switch.git
+[submodule "switches/mmc/Finger-Lift-Switch"]
+	path = switches/mmc/Finger-Lift-Switch
+	url = https://github.com/makersmakingchange/Finger-Lift-Switch.git
+[submodule "switches/mmc/Hand-Raiser"]
+	path = switches/mmc/Hand-Raiser
+	url = https://github.com/makersmakingchange/Hand-Raiser.git
+[submodule "switches/mmc/Low-Profile-Switch"]
+	path = switches/mmc/Low-Profile-Switch
+	url = https://github.com/makersmakingchange/Low-Profile-Switch.git
+[submodule "switches/mmc/Solderless-Unibody-Switch"]
+	path = switches/mmc/Solderless-Unibody-Switch
+	url = https://github.com/makersmakingchange/Solderless-Unibody-Switch.git
+[submodule "switches/mmc/Assistive-Switches-Kit"]
+	path = switches/mmc/Assistive-Switches-Kit
+	url = https://github.com/makersmakingchange/Assistive-Switches-Kit.git
+[submodule "switches/mmc/Sip-And-Puff-Analog-Switch"]
+	path = switches/mmc/Sip-And-Puff-Analog-Switch
+	url = https://github.com/makersmakingchange/Sip-And-Puff-Analog-Switch.git
+[submodule "switches/mmc/Switch-Modifier"]
+	path = switches/mmc/Switch-Modifier
+	url = https://github.com/makersmakingchange/Switch-Modifier.git
+[submodule "switches/mmc/OpenAT-Switch-Latch"]
+	path = switches/mmc/OpenAT-Switch-Latch
+	url = https://github.com/makersmakingchange/OpenAT-Switch-Latch.git
+[submodule "switches/mmc/Switch-Adapter-DualMono-Stereo"]
+	path = switches/mmc/Switch-Adapter-DualMono-Stereo
+	url = https://github.com/makersmakingchange/Switch-Adapter-DualMono-Stereo.git
+[submodule "switches/mmc/USB-Switch-Tester"]
+	path = switches/mmc/USB-Switch-Tester
+	url = https://github.com/makersmakingchange/USB-Switch-Tester.git
+[submodule "switches/mmc/Simple-Switch-Tester"]
+	path = switches/mmc/Simple-Switch-Tester
+	url = https://github.com/makersmakingchange/Simple-Switch-Tester.git
+[submodule "switches/mmc/Shrub-Hub"]
+	path = switches/mmc/Shrub-Hub
+	url = https://github.com/makersmakingchange/Shrub-Hub.git
+[submodule "switches/mmc/Trinkey-Assistive-Interface"]
+	path = switches/mmc/Trinkey-Assistive-Interface
+	url = https://github.com/makersmakingchange/Trinkey-Assistive-Interface.git
+[submodule "switches/mmc/Playback-Switch"]
+	path = switches/mmc/Playback-Switch
+	url = https://github.com/makersmakingchange/Playback-Switch.git
+[submodule "switches/mmc/Single-Message-Playback-Switch"]
+	path = switches/mmc/Single-Message-Playback-Switch
+	url = https://github.com/makersmakingchange/Single-Message-Playback-Switch.git
+[submodule "switches/mmc/Rocket-Switch-Interface"]
+	path = switches/mmc/Rocket-Switch-Interface
+	url = https://github.com/makersmakingchange/Rocket-Switch-Interface.git
+[submodule "switches/mmc/Wireless-Assistive-Switch-Link"]
+	path = switches/mmc/Wireless-Assistive-Switch-Link
+	url = https://github.com/makersmakingchange/Wireless-Assistive-Swith-Link.git
+[submodule "switches/mmc/wireless-assistive-switch-link"]
+	path = switches/mmc/wireless-assistive-switch-link
+	url = https://github.com/makersmakingchange/wireless-assistive-switch-link.git
+[submodule "switches/mmc/Open_Universal_Mounting_Plate"]
+	path = switches/mmc/Open_Universal_Mounting_Plate
+	url = https://github.com/makersmakingchange/Open_Universal_Mounting_Plate.git
+[submodule "switches/mmc/USB-Switcher-Modification"]
+	path = switches/mmc/USB-Switcher-Modification
+	url = https://github.com/makersmakingchange/USB-Switcher-Modification.git
+[submodule "switches/mmc/Custom-Single-Switch-Kit"]
+	path = switches/mmc/Custom-Single-Switch-Kit
+	url = https://github.com/makersmakingchange/Custom-Single-Switch-Kit.git
+[submodule "switches/mmc/LipSync"]
+	path = switches/mmc/LipSync
+	url = https://github.com/makersmakingchange/LipSync.git
+[submodule "switches/mmc/LipSync-Macro"]
+	path = switches/mmc/LipSync-Macro
+	url = https://github.com/makersmakingchange/LipSync-Macro.git
+[submodule "switches/asterics/buttondesigns"]
+	path = switches/asterics/buttondesigns
+	url = https://github.com/asterics/buttondesigns
+[submodule "switches/asterics/FLipMouse"]
+	path = switches/asterics/FLipMouse
+	url = https://github.com/asterics/FLipMouse
+[submodule "switches/asterics/FLipMouse-v2"]
+	path = switches/asterics/FLipMouse-v2
+	url = https://github.com/asterics/FLipMouse-v2
+[submodule "switches/asterics/FABI"]
+	path = switches/asterics/FABI
+	url = https://github.com/asterics/FABI
+[submodule "switches/mturvey/InteractSwitch"]
+	path = switches/mturvey/InteractSwitch
+	url = https://github.com/mwturvey/InteractSwitch.git
+[submodule "switches/misc/accessible-switches"]
+	path = switches/misc/accessible-switches
+	url = https://github.com/a11yhood/accessible-switches
+[submodule "switches/misc/Accessible-Switch"]
+	path = switches/misc/Accessible-Switch
+	url = https://github.com/greenpanda111/Accessible-Switch
+[submodule "switches/misc/atat-switch"]
+	path = switches/misc/atat-switch
+	url = https://github.com/musghz/atat-switch
+[submodule "switches/misc/openSipPuff"]
+	path = switches/misc/openSipPuff
+	url = https://github.com/jasonwebb/openSipPuff
+[submodule "switches/misc/Sip-N-Puff-Accessibility-Project"]
+	path = switches/misc/Sip-N-Puff-Accessibility-Project
+	url = https://github.com/trainslaw/Sip-N-Puff-Accessibility-Project

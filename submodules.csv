@@ -1,0 +1,70 @@
+# Adaptive Switch Submodules
+# Format: url,local_path
+# Lines starting with # are comments and are ignored.
+# local_path is relative to the repo root (e.g. switches/mmc/Chatterbox)
+
+# ── MMC: Physical Switches ────────────────────────────────────────────────────
+https://github.com/makersmakingchange/Chatterbox.git,switches/mmc/Chatterbox
+https://github.com/makersmakingchange/Lift-Switch.git,switches/mmc/Lift-Switch
+https://github.com/makersmakingchange/MMC60_Assistive_Switch.git,switches/mmc/MMC60_Assistive_Switch
+https://github.com/makersmakingchange/Twitch-Switch.git,switches/mmc/Twitch-Switch
+https://github.com/makersmakingchange/Light-Proximity-Switch.git,switches/mmc/Light-Proximity-Switch
+https://github.com/makersmakingchange/Open-Wobble-Switch.git,switches/mmc/Open-Wobble-Switch
+https://github.com/makersmakingchange/Interact-Switch.git,switches/mmc/Interact-Switch
+https://github.com/makersmakingchange/Big_Open_Switch.git,switches/mmc/Big_Open_Switch
+https://github.com/makersmakingchange/foot-pedal-switch.git,switches/mmc/foot-pedal-switch
+https://github.com/makersmakingchange/Open-Rocker-Switch.git,switches/mmc/Open-Rocker-Switch
+https://github.com/makersmakingchange/Round_Touch_60_Switch.git,switches/mmc/Round_Touch_60_Switch
+https://github.com/makersmakingchange/Raindrop-Switch.git,switches/mmc/Raindrop-Switch
+https://github.com/makersmakingchange/Resistive-Touch-Switch.git,switches/mmc/Resistive-Touch-Switch
+https://github.com/makersmakingchange/Light-Touch-Switch.git,switches/mmc/Light-Touch-Switch
+https://github.com/makersmakingchange/Wearable-Clap-Switch.git,switches/mmc/Wearable-Clap-Switch
+https://github.com/makersmakingchange/Finger-Lift-Switch.git,switches/mmc/Finger-Lift-Switch
+https://github.com/makersmakingchange/Hand-Raiser.git,switches/mmc/Hand-Raiser
+https://github.com/makersmakingchange/Low-Profile-Switch.git,switches/mmc/Low-Profile-Switch
+https://github.com/makersmakingchange/Solderless-Unibody-Switch.git,switches/mmc/Solderless-Unibody-Switch
+https://github.com/makersmakingchange/Assistive-Switches-Kit.git,switches/mmc/Assistive-Switches-Kit
+https://github.com/makersmakingchange/Sip-And-Puff-Analog-Switch.git,switches/mmc/Sip-And-Puff-Analog-Switch
+
+# ── MMC: Switch Modifiers / Adapters ─────────────────────────────────────────
+https://github.com/makersmakingchange/Switch-Modifier.git,switches/mmc/Switch-Modifier
+https://github.com/makersmakingchange/OpenAT-Switch-Latch.git,switches/mmc/OpenAT-Switch-Latch
+https://github.com/makersmakingchange/Switch-Adapter-DualMono-Stereo.git,switches/mmc/Switch-Adapter-DualMono-Stereo
+
+# ── MMC: Switch Interfaces / Testers ─────────────────────────────────────────
+https://github.com/makersmakingchange/USB-Switch-Tester.git,switches/mmc/USB-Switch-Tester
+https://github.com/makersmakingchange/Simple-Switch-Tester.git,switches/mmc/Simple-Switch-Tester
+https://github.com/makersmakingchange/Shrub-Hub.git,switches/mmc/Shrub-Hub
+https://github.com/makersmakingchange/Trinkey-Assistive-Interface.git,switches/mmc/Trinkey-Assistive-Interface
+https://github.com/makersmakingchange/Playback-Switch.git,switches/mmc/Playback-Switch
+https://github.com/makersmakingchange/Single-Message-Playback-Switch.git,switches/mmc/Single-Message-Playback-Switch
+https://github.com/makersmakingchange/Rocket-Switch-Interface.git,switches/mmc/Rocket-Switch-Interface
+
+# ── MMC: Wireless ─────────────────────────────────────────────────────────────
+https://github.com/makersmakingchange/Wireless-Assistive-Swith-Link.git,switches/mmc/Wireless-Assistive-Switch-Link
+https://github.com/makersmakingchange/wireless-assistive-switch-link.git,switches/mmc/wireless-assistive-switch-link
+
+# ── MMC: Mounting / Accessories ──────────────────────────────────────────────
+https://github.com/makersmakingchange/Open_Universal_Mounting_Plate.git,switches/mmc/Open_Universal_Mounting_Plate
+https://github.com/makersmakingchange/USB-Switcher-Modification.git,switches/mmc/USB-Switcher-Modification
+https://github.com/makersmakingchange/Custom-Single-Switch-Kit.git,switches/mmc/Custom-Single-Switch-Kit
+
+# ── MMC: Sip-and-Puff Joysticks ──────────────────────────────────────────────
+https://github.com/makersmakingchange/LipSync.git,switches/mmc/LipSync
+https://github.com/makersmakingchange/LipSync-Macro.git,switches/mmc/LipSync-Macro
+
+# ── AsTeRICS ──────────────────────────────────────────────────────────────────
+https://github.com/asterics/buttondesigns,switches/asterics/buttondesigns
+https://github.com/asterics/FLipMouse,switches/asterics/FLipMouse
+https://github.com/asterics/FLipMouse-v2,switches/asterics/FLipMouse-v2
+https://github.com/asterics/FABI,switches/asterics/FABI
+
+# ── MTurvey ───────────────────────────────────────────────────────────────────
+https://github.com/mwturvey/InteractSwitch.git,switches/mturvey/InteractSwitch
+
+# ── Misc / Community ─────────────────────────────────────────────────────────
+https://github.com/a11yhood/accessible-switches,switches/misc/accessible-switches
+https://github.com/greenpanda111/Accessible-Switch,switches/misc/Accessible-Switch
+https://github.com/musghz/atat-switch,switches/misc/atat-switch
+https://github.com/jasonwebb/openSipPuff,switches/misc/openSipPuff
+https://github.com/trainslaw/Sip-N-Puff-Accessibility-Project,switches/misc/Sip-N-Puff-Accessibility-Project
