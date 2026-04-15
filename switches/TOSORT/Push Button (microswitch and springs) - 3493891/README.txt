@@ -1,0 +1,4 @@
+Push Button (microswitch and springs) by Martin1111 on Thingiverse: https://www.thingiverse.com/thing:3493891
+
+Summary:
+This was redrawn based on design of liteul https://www.thingiverse.com/thing:399005 .The base can be secured to something by 3 small screws. You will need a microswitch and 3 identical ballpen springs.I use this design in my spit-flap counter to start it.I post 2 versions of the base: with a hole for cables leading from the microswitch or without it.  Edit: 18.08.2020 - added file "button_v2.stl" with 4 guides that fit the cuts in the base (as in photos). File "button.stl" did not have them (my mistake).

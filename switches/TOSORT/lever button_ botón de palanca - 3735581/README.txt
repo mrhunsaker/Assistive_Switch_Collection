@@ -1,0 +1,4 @@
+lever button/ botón de palanca by lafabricadepalabras on Thingiverse: https://www.thingiverse.com/thing:3735581
+
+Summary:
+Botón de palanca con 4 finales de carrera conectados en paralelo (pines: común y normalmente abierto) para que se cierre el mismo contacto independientemente de la posición de la palanca. Además, incluye un conector jack hembra de 3,5mm para poder conectar un cable y usar un juguete adaptado, un adaptador para barrido en los comunicadores, etc.Hace falta hacer un agujero con broca de 6mm para jack hembra entre dos finales de carrera (el que mejor se adapte).El archivo palo.stl está diseñado por CEAPAT y tiene el siguiente enlace:https://www.thingiverse.com/thing:2879752Para más información:www.lafabricadepalabras.comdanielduran@lafabricadepalabras.com

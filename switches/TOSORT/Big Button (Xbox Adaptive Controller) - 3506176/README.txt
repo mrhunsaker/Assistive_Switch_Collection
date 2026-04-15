@@ -1,0 +1,4 @@
+Big Button (Xbox Adaptive Controller) by gripuf on Thingiverse: https://www.thingiverse.com/thing:3506176
+
+Summary:
+This design is a big button for use with the Xbox Adaptive Controller (XAC). The part is made up of 3 seperate components: the top of the button case, the bottom of the button case, and the actual button that you press. These components are all available for download as stl and SolidWorks files. On the inside of the part, there is a square slota to hold a keyboard switch. We used Green Cherry MX Keyswitches (https://mechanicalkeyboards.com/shop/index.php?l=product_list&amp;c=48) so those will fit best into the square slot.We use zipties to secure the top and base of the switch together.

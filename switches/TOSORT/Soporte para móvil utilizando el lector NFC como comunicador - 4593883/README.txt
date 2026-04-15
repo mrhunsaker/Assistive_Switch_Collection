@@ -1,0 +1,4 @@
+Soporte para móvil utilizando el lector NFC como comunicador by ceapat on Thingiverse: https://www.thingiverse.com/thing:4593883
+
+Summary:
+Este soporte permite desplazar el móvil por unas barras paralelas empujándolo con la muñeca o el antebrazo de izquierda a derecha con facilidad.Su finalidad es realizar un comunicador o base de aprendizaje con tarjetas NFC, pudiendo colocar las tarjetas y desplazar el móvil sobre ellas para realizar su lectura. Se ha elaborando un documento por el Ceapat, Imserso, en el que se explica, de forma muy básica, la aplicación y uso de la tecnología NFC para el diseño de actividades de apoyo al aprendizaje de la Comunicación Aumentativa - Alternativa con pictogramas. Lo puedes consultar en: https://www.imserso.es/InterPresent1/groups/imserso/documents/binario/tec_nfc_len_com_2020.pdf

@@ -1,0 +1,24 @@
+{
+  "parameterSets": {
+    "body": {
+      "part": "body",
+      "use_color": false
+    },
+    "switch_base": {
+      "part": "switch_base",
+      "use_color": false
+    },
+    "flexure_spring": {
+      "part": "flexure_spring",
+      "use_color": false
+    },
+    "button_top": {
+      "part": "button_top",
+      "use_color": false
+    },
+    "cap": {
+      "part": "cap",
+      "use_color": false
+    }
+  }
+}
