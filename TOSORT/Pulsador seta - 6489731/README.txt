@@ -1,0 +1,4 @@
+Pulsador seta by AntonioNaharro on Thingiverse: https://www.thingiverse.com/thing:6489731
+
+Summary:
+Pulsador tipo seta como los de los concursos televisivos para juego.Necesita un muelle de acero de 1mm con un diámetro exterior de 20mm y un largo de unos 30mm y un pulsador estilo máquina arcade para hueco de 30mm.También algunos tornillos pequeños como se ve en las fotos.Mushroom type button like those on television game contests.You need a 1mm steel spring with an outer diameter of 20mm and a length of about 30mm and an arcade machine-style button for a 30mm gap.Also some small screws as seen in the photos.

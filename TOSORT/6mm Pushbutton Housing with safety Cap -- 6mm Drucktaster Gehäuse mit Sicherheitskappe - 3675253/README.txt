@@ -1,0 +1,4 @@
+6mm Pushbutton Housing with safety Cap  --  6mm Drucktaster Gehäuse mit Sicherheitskappe by SolarGermany on Thingiverse: https://www.thingiverse.com/thing:3675253
+
+Summary:
+6mm Pushbutton Housing with safety Caphttps://www.ebay.de/itm/100PCS-6x6x6-mm-Miniature-Micro-Momentary-Tactile-Tact-Touch-Push-Button-Switch/132488686881?epid=633717124&amp;hash=item1ed8f0ed21:g:7DIAAOSwWlFbrzqw&amp;frcectupt=trueHave fun, like, and share you makes...SG.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.6mm Drucktaster Gehäuse mit Sicherheitskappehttps://www.ebay.de/itm/100PCS-6x6x6-mm-Miniature-Micro-Momentary-Tactile-Tact-Touch-Push-Button-Switch/132488686881?epid=633717124&amp;hash=item1ed8f0ed21:g:7DIAAOSwWlFbrzqw&amp;frcectupt=trueHabt Spass, liked, und teilt Eure Makes...SG

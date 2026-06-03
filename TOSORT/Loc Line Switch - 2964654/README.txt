@@ -1,0 +1,4 @@
+Loc Line Switch by OTandAT on Thingiverse: https://www.thingiverse.com/thing:2964654
+
+Summary:
+I needed a wheelchair mounted, elbow activated switch for a client with very limited movement. Here is a locline mounted switch that uses a 1.5 inch push button switch from Banggood. (45mm Arcade Video Game Big Round Push Button LED Lighted Illuminated Lamp @ $2.21 ).  I needed all the wires internal inside the locline and this uses a 3/4" npt connection to the loc-line. Has two parts that just press fit together. This switch has a LED light but I'm not using it. I had to bend the switch connector tabs a bit to clear but no big deal. Wire COM and N.O. (normally open) connectors for the switch. This is much lighter than the jelly bean switch mount so much less sagging with the loc-line.Link for switch: https://www.banggood.com/45mm-Arcade-Video-Game-Big-Round-Push-Button-LED-Lighted-Illuminated-Lamp-p-1044297.html?rmmds=detail-left-hotproducts__4&amp;cur_warehouse=CN

@@ -1,0 +1,4 @@
+pc power/reset switch button | friction fit by NickelLight on Thingiverse: https://www.thingiverse.com/thing:6948165
+
+Summary:
+!!! Important: Do not use “button_mesh.obj” unless you intend to edit the file! “button.obj” is what you should import into your slicer! !!!Pictured model printed in Inland True Green PLA, 0.15mm quality.Friction fit on my Prusa Mini+, but you could tweak the fit by importing “button_mesh” into blender, scaling the fit, and then applying a remesh modifier and exporting as a new .obj.Should hopefully be compatible with most generic pc power/reset switches.I like to print it on its face so the gaps fill in around the arrow.

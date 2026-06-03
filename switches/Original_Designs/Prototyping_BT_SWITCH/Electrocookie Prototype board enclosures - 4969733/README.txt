@@ -1,0 +1,4 @@
+Electrocookie Prototype board enclosures by ResinchemTech on Thingiverse: https://www.thingiverse.com/thing:4969733
+
+Summary:
+These are enclosures for the ElectroCookie Prototype boards.  Some are for the full 1/2 size board and the others are for the mini board.  These are designed to accommodate ESP8266/NodeMCU or Wemos D1 Mini projects, such as a WLED controller, but should work for the ESP32 variants as well.  There are opening on both ends to allow for wiring or USB power cable.Posts are designed to accept an M2 screw if you wish to screw down your ElectroCookie board inside the enclosure.Versions are included with no mounting tabs, or with tabs on the sides or top/bottom.  The "header pins" version is taller to accommodate the ESP mounted on standard pin headers using a full 1/2 size ElectroCookie board.

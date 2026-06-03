@@ -1,0 +1,4 @@
+Gamer Button by z3r054m4 on Thingiverse: https://www.thingiverse.com/thing:5078577
+
+Summary:
+I've been wanting to make a custom hitbox/Arcade stick controller using the widly popular Cherry MX switches to reduce sound from input.This is what came out of it: Gamer Button. Available in 29mm and 33mmAn arcade style Button compatible with Fightstick. Simply print and replace your parts. Wiring is up to you tho.Buttons comes in 3 part: The nut to hold the button in place, The Barrel or frame that will contain the switch, the cap to cover the switch that comes in two style: Arcade or keyboard (depending on use)

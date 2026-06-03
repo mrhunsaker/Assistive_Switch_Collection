@@ -1,0 +1,4 @@
+The Button by Lemm on Thingiverse: https://www.thingiverse.com/thing:2122239
+
+Summary:
+Print the Button to switch your favorite hue lights or scenes, homematic scenes or whatelse you can imagine to do with one click esp-01. After pressing the Button the esp resets and executes the code ( logging into wlan, searching for bridge, sending data). After that the esp goes into deepsleep again and wait for the next reset. The deep sleep mode don't need much energy so you can use the Button for a long time without changing batteries ( I hope so ;) )I use it for my lights to switch a good morning scene (lights, coffeemachine) and for some all off buttons.I used @PrintMo 's Rugged Lens Filter Case locking system for the button( http://www.thingiverse.com/thing:415961 )How it works: https://youtu.be/y_RpBIn9FNE

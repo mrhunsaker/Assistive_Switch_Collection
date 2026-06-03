@@ -1,0 +1,4 @@
+Momentary Switch for Sino Plate S18 by mybabysexy on Thingiverse: https://www.thingiverse.com/thing:3678432
+
+Summary:
+Since I want to integrate my Sonoff basic to my wall switch with less money as possible, I created this momentary button holder for my house wall switch, which is a Sino's, or Vanlock's.There are some varients with different tolerances, depends on your machine.0.4mm tolerance: 3mm and 5mm tall0.2mm tolerance: 3mm and 5mm tallI used the 0.2mm one, 25% infill and 4 perimeters, no support needed.For the best usage you should use ABS to print this, I ran out of ABS so I used PLA, but that should be fine.For this you will need a 12x12x7mm button, wires and maybe some hotglue to hold 2 wires in place. I designed so it should locks by its own.

@@ -1,0 +1,4 @@
+5mm Button Holder / Enclosure Part by PrintedHuman on Thingiverse: https://www.thingiverse.com/thing:2668617
+
+Summary:
+Need to include buttons in your project or model? Just paste in this model and you are ready.This is the optimized result of testing and prototypes and it fits like a charm with the usual cheap 5 mm switch push buttons.You don't need to give credit if you use this part, but I would thank you if you did, just link to this page. Thanks!There are 2 models, one with and one without a seperator. The seperator is useful for making sure that solder or wires wont short circuit with eachother.Enjoy!PS. You can buy this buttons safely and cheap over here: https://www.banggood.com/100pcs-Mini-Micro-Momentary-Tactile-Tact-Switch-Push-Button-DIP-P4-Normally-Open-p-917570.html?p=BE271351829962016060(Those are also the buttons I used for prototyping and testing)

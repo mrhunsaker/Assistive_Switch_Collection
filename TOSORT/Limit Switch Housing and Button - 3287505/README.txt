@@ -1,0 +1,4 @@
+Limit Switch Housing and Button by Pop4solar on Thingiverse: https://www.thingiverse.com/thing:3287505
+
+Summary:
+Fits limit switch approximately 20mm x 6.5mm x 10.5mm (not including metal switch and terminals). Allows you to surface mount a limit switch to be activated by a finger for momentary on applications. It was made for use with 3mm x 12mm screws and nuts, but the switch actually only allows for smaller screws until I drilled out the holes in the switch.... eh he he. I will try to post a picture of it in use after I finish my project. Hope you find it useful. You can find my original files on TinkerCAD.12/18/18 Just added a short or low profile version as well. 
