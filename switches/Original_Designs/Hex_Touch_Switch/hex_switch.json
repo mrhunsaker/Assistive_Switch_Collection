@@ -1,0 +1,26 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "New set 1": "",
+        "New set 2": {
+            "$fn": "32",
+            "part": "blowup_assembled"
+        },
+        "New set 3": {
+            "$fn": "32",
+            "part": "body"
+        },
+        "New set 4": {
+            "$fn": "32",
+            "part": "hex_cap_with_ridging"
+        },
+        "New set 5": {
+            "$fn": "32",
+            "part": "body"
+        },
+        "New set 6": {
+            "$fn": "32",
+            "part": "hex_cap_with_ridging"
+        }
+    }
+}

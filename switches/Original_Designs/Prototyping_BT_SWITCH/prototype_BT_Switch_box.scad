@@ -9,19 +9,19 @@ part = "lid"; // [lid:Lid, box:Box, tpu_base:TPU Base]
 // ─── Imports ────────────────────────────────────────────────────────────────
 
 module electrocookie_import() {
-    import("/home/ryhunsaker/Downloads/TestBox/Electrocookie Prototype board enclosures - 4969733/files/ElectroCookie_Enclosure_V3.stl");
+    import("/home/ryhunsaker/GitHubRepos/Assistive_Switch_Collection/switches/Original_Designs/Prototyping_BT_SWITCH/Electrocookie Prototype board enclosures - 4969733/files/ElectroCookie_Enclosure_V3.stl");
 }
 
 module mono_jack_mount_import() {
-    import("/home/ryhunsaker/Downloads/TestBox/RFS_Sw_Jack_Mount.stl");
+    import("/home/ryhunsaker/GitHubRepos/Assistive_Switch_Collection/switches/Original_Designs/Prototyping_BT_SWITCH/RFS_Sw_Jack_Mount.stl");
 }
 
 module jst_3_pin_import() {
-    import("/home/ryhunsaker/Downloads/TestBox/3pin.stl");
+    import("/home/ryhunsaker/GitHubRepos/Assistive_Switch_Collection/switches/Original_Designs/Prototyping_BT_SWITCH/3pin.stl");
 }
 
 module jst_4_pin_import() {
-    import("/home/ryhunsaker/Downloads/TestBox/4pin.stl");
+    import("/home/ryhunsaker/GitHubRepos/Assistive_Switch_Collection/switches/Original_Designs/Prototyping_BT_SWITCH/4pin.stl");
 }
 
 // ─── Sub-components ─────────────────────────────────────────────────────────
@@ -127,8 +127,4 @@ if (part == "lid") {
     add_mono_jack_mounts();
 } else if (part == "tpu_base") {
     tpu_base();
-} else if (part == "jst_mount") {
-    color("blue") jst_3pin_mount();
-} else if (part == "mono_jack_mount") {
-    color("red") mono_jack_mount();
 }

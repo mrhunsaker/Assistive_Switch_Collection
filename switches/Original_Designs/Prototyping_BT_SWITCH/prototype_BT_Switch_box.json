@@ -4,6 +4,10 @@
         "New set 1": {
             "$fn": "32",
             "part": "box"
+        },
+        "New set 2": {
+            "$fn": "32",
+            "part": "box"
         }
     }
 }
