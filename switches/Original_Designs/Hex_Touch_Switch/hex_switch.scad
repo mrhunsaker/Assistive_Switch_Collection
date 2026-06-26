@@ -40,6 +40,7 @@ module switch_hex_cap() {
         switch_top_slot();
     }
     translate([-5,8.5,-5])cube([10,3,20]);
+   translate([-8,8.5,-5])cube([15,2,20]);
 }
 }
 
@@ -110,7 +111,7 @@ module switch_hex_spring()
 {
     sp_side   = 14;
     sp_wall   = 1.25;
-    sp_height = 16.5;
+    sp_height = 14.5;
 
     spring_h = 3.0;
 

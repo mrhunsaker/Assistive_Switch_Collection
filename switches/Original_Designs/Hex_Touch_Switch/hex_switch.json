@@ -21,6 +21,10 @@
         "New set 6": {
             "$fn": "32",
             "part": "hex_cap_with_ridging"
+        },
+        "New set 7": {
+            "$fn": "32",
+            "part": "spring"
         }
     }
 }
